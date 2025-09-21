@@ -1,0 +1,3 @@
+# ILYWallet – Your Universal Money Hub
+
+ILYWallet is a smart dashboard that brings all your earnings, accounts, and digital assets together in one place. Inspired by the way big ecosystems like Facebook, Amazon, and Microsoft connect the world, ILYWallet lets you see everything you own or earn—across apps, currencies, and platforms—like one unified family. Track balances, manage rewards, and stay on top of your money effortlessly, all from a single, intuitive interface.
